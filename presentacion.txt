@@ -3,3 +3,4 @@ Programa: Ingenieria de sofware
 Lenguaje de programacion: Python
 Descripcion del proyecto; programa pequeño que convierte temperaturas y calcula areas
 Fecha: %date%
+Fecha: 16 mayo 2026

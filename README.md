@@ -4,7 +4,7 @@
 Programa pequeño que convierte temperaturas entre Celsius y Fahrenheit, y calcula áreas (si agregaste esa función).
 
 ## Lenguaje
-Python 3.x
+Python 
 
 ## Funciones
 - celsius_a_fahrenheit: Convierte de Celsius a Fahrenheit

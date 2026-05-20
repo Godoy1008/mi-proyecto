@@ -1,0 +1,5 @@
+Nombre: Juan Pablo Godoy
+Programa: Ingeniería de software
+Lenguaje de programación: Python
+Descripción del proyecto; programa pequeño que convierte temperaturas y calcula areas
+Fecha: 16 mayo 2026

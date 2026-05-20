@@ -2,3 +2,4 @@ Nombre: Juan Pablo Godoy
 Programa: Ingenieria de sofware
 Lenguaje de programacion: Python
 Descripcion del proyecto; programa pequeño que convierte temperaturas y calcula areas
+Fecha: %date%

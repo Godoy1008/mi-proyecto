@@ -1,0 +1,9 @@
+* 3b8370e feat: agregar segunda función y actualizar presentación
+* 15a3b88 feat: agregar función convertir Fahrenheit a Celsius
+*   3ee84c2 merge: resolver conflicto de fecha en presentacion.txt
+|\  
+| * 4ca39cd Update presentacion.txt
+* | ba849d1 feat: agregar función convertir Celsius a Fahrenheit
+|/  
+* ae4b453 docs: 16 de mayo 2026
+* 470bf13 feat: agregar presentación del estudiante
